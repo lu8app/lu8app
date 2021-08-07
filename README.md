@@ -1,4 +1,5 @@
 最新地址（2021.08.06 更新 / 本地址將定期更換）
+
 https://www.lu8.app
 
 https://www.lu8.one
