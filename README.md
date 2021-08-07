@@ -1,3 +1,5 @@
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
+  <body>
 <font style="font-size:24px;font-weight:bold;color:red;">最新地址（2021.08.06 更新 / 本地址將定期更換）</font>
 
 https://www.lu8.app
@@ -35,3 +37,4 @@ Lu8.app@gmail.com
 火狐浏览器（Firefox）下载地址： https://www.firefox.com.cn/
 谷歌浏览器（Chrome） https://www.google.cn/chrome/
 苹果自带浏览器（Safari） https://www.apple.com.cn/safari/
+<body/><html/>
