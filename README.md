@@ -21,7 +21,7 @@ APP下載(敬请期待)
 
 請牢記本網址 / 防屏蔽（加入收藏夾）
 
-https://github.com/sex18vip/dz
+https://github.com/lu8app
 
 備用導航（敬请期待）
 
